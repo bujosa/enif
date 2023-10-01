@@ -3,3 +3,6 @@ enif
 
 # Enviroment Variables
 constants.py
+
+# Caching files
+__pycache__/
