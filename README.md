@@ -1,6 +1,6 @@
 # enif
 
-This repo is a simple project for gpt integration
+This repo is a simple project for ChatGPT integration
 
 ## Description
 
